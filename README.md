@@ -25,8 +25,6 @@ git
 
 I'll add CSS to make it look better :)
 
-==========================================================
-==========================================================
 
 # Getting Started with Create React App
 
