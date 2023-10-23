@@ -1,4 +1,4 @@
-React Application 
+#React Application 
 
 # todo-app
 Basic To do List Application with React
@@ -6,7 +6,10 @@ Basic To do List Application with React
 Try it yourself!
 https://hiilsof.github.io/todo-app/
 
-I wanted to do start with something simple
+it may take a while...
+if it doesnt load refresh the page
+
+I wanted to start with something simple
 Though at the moment it is still pretty bare bones
 
 so far it is able to store todos so that when you refresh it the todos do not dissappear
