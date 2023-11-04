@@ -1,7 +1,3 @@
-# React App 
-
-in development...
-
 # todo-app
 Basic To do List Application with React
 
@@ -25,7 +21,13 @@ Javascript
 uuidv4
 git
 
-I'll add CSS to make it look better :)
+# To implement
+- add CSS to make it look better
+
+
+# React App 
+
+made with react framework
 
 
 # Getting Started with Create React App
