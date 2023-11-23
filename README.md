@@ -23,6 +23,8 @@ git
 
 # To implement
 - add CSS to make it look better
+- background
+- style
 
 
 # React App 
