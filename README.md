@@ -1,4 +1,4 @@
-# todo-app
+# To do App
 Basic To do List Application with React
 
 Try it yourself!
