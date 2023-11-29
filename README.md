@@ -1,6 +1,10 @@
 # To do App
 Basic To do List Application with React
-with style
+
+Features:
+- Add
+- Remove
+- Tick
 
 Try it yourself!
 https://hiilsof.github.io/todo-app/
